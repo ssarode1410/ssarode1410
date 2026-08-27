@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Shantanu 👋
 
-<!--
-**ssarode1410/ssarode1410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a DevOps professional with over 6.5 years of experience in system administration, incident management, and cloud infrastructure automation. After managing and monitoring enterprise-scale environments at FIS Global, I specialize in architecting secure, automated CI/CD pipelines and scalable infrastructure.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack & Tools
+* **Cloud & Infrastructure:** AWS, Azure, Kubernetes, Terraform, Ansible
+* **CI/CD & Delivery:** Azure DevOps, Jenkins, ArgoCD, GitHub Actions
+* **Monitoring & Observability:** Prometheus, Grafana
+* **Scripting:** Python, Windows PowerShell
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured Projects
+* **[Enterprise DevSecOps Pipeline](link-to-repo):** Immutable AWS infrastructure deployed via Terraform and GitHub Actions with integrated Checkov security scanning.
+* **[Azure DevOps E-commerce Deployment](link-to-repo):** End-to-end CI/CD pipeline for a sample web application using Azure DevOps.
+* **[Automated Resume Generator](link-to-repo):** Python utility that parses job descriptions and dynamically generates tailored PDF resumes.
+
+📫 **Reach me at:** sarode437@gmail.com
