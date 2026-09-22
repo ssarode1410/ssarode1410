@@ -16,6 +16,12 @@ I am a DevOps professional with over 6.5 years of experience in system administr
 **Scripting:**  
 ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 
+### 🏆 Certifications
+
+<a href="https://www.credly.com/badges/6125b62c-9644-4846-bb07-81a289a973e1/">
+  <img src="https://img.shields.io/badge/AZ--900-Azure_Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="AZ-900 Azure Fundamentals" />
+</a>
+
 ### 🚀 Featured Projects
 
 - [Enterprise DevSecOps Pipeline](#): Immutable AWS infrastructure deployed via Terraform and GitHub Actions with integrated Checkov security scanning.
