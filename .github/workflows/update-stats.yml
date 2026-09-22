@@ -22,7 +22,7 @@ jobs:
         with:
           card: stats
           # Added count_private=true and hide_rank=true
-          options: 'username=${{ github.repository_owner }}&show_icons=true&theme=dark&count_private=true&hide_rank=true'
+          options: 'username=${{ github.repository_owner }}&show_icons=true&theme=dark&count_private=true&hide_rank=true&hide=stars,prs,issues,contribs'
           path: profile/stats.svg
           token: ${{ secrets.PAT_TOKEN }}
           
