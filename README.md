@@ -23,9 +23,6 @@ I am a DevOps professional with over 6.5 years of experience in system administr
 📫 **Reach me at:** sarode437@gmail.com
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ssarode1410&show_icons=true&theme=dark" alt="Shantanu's GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssarode1410&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="profile/stats.svg" alt="Shantanu's GitHub Stats" />
+  <img src="profile/top-langs.svg" alt="Top Languages" />
 </div>
