@@ -1,0 +1,41 @@
+name: Generate GitHub Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs daily at midnight
+  workflow_dispatch: # Allows manual trigger from the Actions tab
+
+jobs:
+  generate-stats:
+    runs-on: ubuntu-latest
+    
+    # Grant permissions for the GITHUB_TOKEN to commit the generated files
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        
+      - name: Generate Stats Card
+        uses: soulteary/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: 'username=${{ github.repository_owner }}&show_icons=true&theme=dark'
+          path: profile/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          
+      - name: Generate Top Languages Card
+        uses: soulteary/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: 'username=${{ github.repository_owner }}&layout=compact&theme=dark'
+          path: profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          
+      - name: Commit & Push Changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add profile/
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update GitHub stats SVGs" && git push)
