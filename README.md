@@ -11,6 +11,6 @@ I am a DevOps professional with over 6.5 years of experience in system administr
 ### 🚀 Featured Projects
 * **[Enterprise DevSecOps Pipeline](https://github.com/ssarode1410/tf-security-lab):** Immutable AWS infrastructure deployed via Terraform and GitHub Actions with integrated Checkov security scanning.
 * **[Azure DevOps E-Voting Deployment](https://github.com/ssarode1410/example-voting-app):** A multi-tier distributed application demonstrating containerization and orchestration.
-* **[Automated Resume Generator](link-to-repo):** Python utility that parses job descriptions and dynamically generates tailored PDF resumes.
+* **[Azure DevOps Sample Web App](https://github.com/ssarode1410/Azure-DevOps-Sample-Web-App):** End-to-end CI/CD pipeline for a sample web application using Azure DevOps.
 
 📫 **Reach me at:** sarode437@gmail.com
