@@ -39,3 +39,7 @@ I am a DevOps professional with over 6.5 years of experience in system administr
   <img src="profile/stats.svg" alt="Shantanu's GitHub Stats" />
   <img src="profile/top-langs.svg" alt="Top Languages" />
 </div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ssarode1410&style=flat-square&color=blue" alt="Profile Views" />
+</div>
