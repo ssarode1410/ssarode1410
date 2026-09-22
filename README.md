@@ -24,7 +24,7 @@ I am a DevOps professional with over 6.5 years of experience in system administr
 
 ### 🚀 Featured Projects
 
-- [Enterprise DevSecOps Pipeline](#): Immutable AWS infrastructure deployed via Terraform and GitHub Actions with integrated Checkov security scanning.
+- [Enterprise DevSecOps Pipeline](https://github.com/ssarode1410/tf-security-lab): Immutable AWS infrastructure deployed via Terraform and GitHub Actions with integrated Checkov security scanning.
 - [Example Voting App](https://github.com/ssarode1410/example-voting-app): A multi-tier distributed application demonstrating containerization and orchestration.
 - [Azure DevOps Sample Web App](https://github.com/ssarode1410/Azure-DevOps-Sample-Web-App): End-to-end CI/CD pipeline for a sample web application using Azure DevOps.
 
