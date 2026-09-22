@@ -3,10 +3,17 @@
 I am a DevOps professional with over 6.5 years of experience in system administration, incident management, and cloud infrastructure automation. After managing and monitoring enterprise-scale environments at FIS Global, I specialize in architecting secure, automated CI/CD pipelines and scalable infrastructure.
 
 ### 🛠️ Tech Stack & Tools
-* **Cloud & Infrastructure:** AWS, Azure, Kubernetes, Terraform, Ansible
-* **CI/CD & Delivery:** Azure DevOps, Jenkins, ArgoCD, GitHub Actions
-* **Monitoring & Observability:** Prometheus, Grafana
-* **Scripting:** Bash, Python, Windows PowerShell
+
+**Cloud & Infrastructure:**
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+
+**CI/CD & Delivery:**
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=Azure%20DevOps&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ### 🚀 Featured Projects
 * **[Enterprise DevSecOps Pipeline](https://github.com/ssarode1410/tf-security-lab):** Immutable AWS infrastructure deployed via Terraform and GitHub Actions with integrated Checkov security scanning.
@@ -17,4 +24,8 @@ I am a DevOps professional with over 6.5 years of experience in system administr
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ssarode1410&show_icons=true&theme=dark" alt="Shantanu's GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssarode1410&layout=compact&theme=dark" alt="Top Languages" />
 </div>
