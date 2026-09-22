@@ -9,7 +9,7 @@ I am a DevOps professional with over 6.5 years of experience in system administr
 * **Scripting:** Bash, Python, Windows PowerShell
 
 ### 🚀 Featured Projects
-* **[Enterprise DevSecOps Pipeline](link-to-repo):** Immutable AWS infrastructure deployed via Terraform and GitHub Actions with integrated Checkov security scanning.
+* **[Enterprise DevSecOps Pipeline](https://github.com/ssarode1410/tf-security-lab):** Immutable AWS infrastructure deployed via Terraform and GitHub Actions with integrated Checkov security scanning.
 * **[Azure DevOps E-commerce Deployment](link-to-repo):** End-to-end CI/CD pipeline for a sample web application using Azure DevOps.
 * **[Automated Resume Generator](link-to-repo):** Python utility that parses job descriptions and dynamically generates tailored PDF resumes.
 
