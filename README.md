@@ -14,3 +14,7 @@ I am a DevOps professional with over 6.5 years of experience in system administr
 * **[Azure DevOps Sample Web App](https://github.com/ssarode1410/Azure-DevOps-Sample-Web-App):** End-to-end CI/CD pipeline for a sample web application using Azure DevOps.
 
 📫 **Reach me at:** sarode437@gmail.com
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ssarode1410&show_icons=true&theme=dark" alt="Shantanu's GitHub Stats" />
+</div>
