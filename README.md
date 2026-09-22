@@ -1,26 +1,30 @@
-# Hi there, I'm Shantanu 👋
+### 👋 Hi there, I'm Shantanu
 
 I am a DevOps professional with over 6.5 years of experience in system administration, incident management, and cloud infrastructure automation. After managing and monitoring enterprise-scale environments at FIS Global, I specialize in architecting secure, automated CI/CD pipelines and scalable infrastructure.
 
 ### 🛠️ Tech Stack & Tools
 
-**Cloud & Infrastructure:**
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+**Cloud & Infrastructure:**  
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
 
-**CI/CD & Delivery:**
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=Azure%20DevOps&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+**CI/CD & Delivery:**  
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=Azure%20DevOps&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+
+**Monitoring & Observability:**  
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+
+**Scripting:**  
+![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 
 ### 🚀 Featured Projects
-* **[Enterprise DevSecOps Pipeline](https://github.com/ssarode1410/tf-security-lab):** Immutable AWS infrastructure deployed via Terraform and GitHub Actions with integrated Checkov security scanning.
-* **[Azure DevOps E-Voting Deployment](https://github.com/ssarode1410/example-voting-app):** A multi-tier distributed application demonstrating containerization and orchestration.
-* **[Azure DevOps Sample Web App](https://github.com/ssarode1410/Azure-DevOps-Sample-Web-App):** End-to-end CI/CD pipeline for a sample web application using Azure DevOps.
 
-📫 **Reach me at:** sarode437@gmail.com
+- [Enterprise DevSecOps Pipeline](#): Immutable AWS infrastructure deployed via Terraform and GitHub Actions with integrated Checkov security scanning.
+- [Example Voting App](https://github.com/ssarode1410/example-voting-app): A multi-tier distributed application demonstrating containerization and orchestration.
+- [Azure DevOps Sample Web App](https://github.com/ssarode1410/Azure-DevOps-Sample-Web-App): End-to-end CI/CD pipeline for a sample web application using Azure DevOps.
+
+📫 Reach me at: [sarode437@gmail.com](mailto:sarode437@gmail.com)
+
+<br>
 
 <div align="center">
   <img src="profile/stats.svg" alt="Shantanu's GitHub Stats" />
