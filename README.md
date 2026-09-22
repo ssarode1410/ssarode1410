@@ -6,7 +6,7 @@ I am a DevOps professional with over 6.5 years of experience in system administr
 * **Cloud & Infrastructure:** AWS, Azure, Kubernetes, Terraform, Ansible
 * **CI/CD & Delivery:** Azure DevOps, Jenkins, ArgoCD, GitHub Actions
 * **Monitoring & Observability:** Prometheus, Grafana
-* **Scripting:** Python, Windows PowerShell
+* **Scripting:** Bash, Python, Windows PowerShell
 
 ### 🚀 Featured Projects
 * **[Enterprise DevSecOps Pipeline](link-to-repo):** Immutable AWS infrastructure deployed via Terraform and GitHub Actions with integrated Checkov security scanning.
