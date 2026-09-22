@@ -22,8 +22,11 @@ I am a DevOps professional with over 6.5 years of experience in system administr
 - [Example Voting App](https://github.com/ssarode1410/example-voting-app): A multi-tier distributed application demonstrating containerization and orchestration.
 - [Azure DevOps Sample Web App](https://github.com/ssarode1410/Azure-DevOps-Sample-Web-App): End-to-end CI/CD pipeline for a sample web application using Azure DevOps.
 
-📫 Reach me at: [sarode437@gmail.com](mailto:sarode437@gmail.com)
+### 📫 Let's Connect
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shantanu-sarode)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)](https://ssarode1410.github.io/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarode437@gmail.com)
 <br>
 
 <div align="center">
