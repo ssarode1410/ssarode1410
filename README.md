@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm Shantanu
 
-I am a DevOps professional with over 6.5 years of experience in system administration, incident management, and cloud infrastructure automation. After managing and monitoring enterprise-scale environments at FIS Global, I specialize in architecting secure, automated CI/CD pipelines and scalable infrastructure.
+I am an IT infrastructure professional with over 6.5 years of experience specializing in system administration, incident management, and cloud reliability. After supporting and monitoring enterprise-scale environments at FIS Global, I focus on maintaining high-availability systems, optimizing telemetry, and automating operational workflows to ensure resilient production environments
 
 ### 🛠️ Tech Stack & Tools
 
